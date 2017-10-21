@@ -1,4 +1,4 @@
-Real-time anomaly detection for univariate time series.
+### Real-time anomaly detection for univariate time series.
 
 ## Prerequisites / Libraries
 * Redis
