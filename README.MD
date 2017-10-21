@@ -1,4 +1,4 @@
-Real-time anomaly detection for sentiment-analyzed tweets.
+Real-time anomaly detection for univariate time series.
 
 ## Prerequisites / Libraries
 * Redis
