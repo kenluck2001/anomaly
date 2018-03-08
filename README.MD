@@ -23,5 +23,5 @@ This allow contains the ability to track multiple time series at the same time d
 
 ## References
 
-Carter, K. M.  & Streilein, W. W. Probabilistic Reasoning For Streaming Anomaly Detection. Retrieved 06/15, 2017, from https://ll.mit.edu/mission/cybersec/publications/publication-files/full_papers/2012_08_05_Carter_IEEESSP_FP.pdf
+Carter, K. M.  & Streilein, W. W. Probabilistic Reasoning For Streaming Anomaly Detection. Retrieved 06/15, 2017, from https://www.ll.mit.edu/mission/cybersec/publications/publication-files/full_papers/2012_08_05_Carter_IEEESSP_FP.pdf
 
